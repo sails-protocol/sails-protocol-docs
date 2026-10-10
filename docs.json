@@ -18,7 +18,7 @@
   "navbar": {
     "primary": {
       "type": "github",
-      "href": "https://github.com/alan-schramm/Sails-Protocol"
+      "href": "https://github.com/sails-protocol/Sails-Protocol"
     }
   },
   "navigation": {
